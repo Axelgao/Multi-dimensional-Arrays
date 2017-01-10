@@ -1,0 +1,9 @@
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W10Sudoku\W10SudokuTest\bin\Debug\W10SudokuTest.dll
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W10Sudoku\W10SudokuTest\bin\Debug\W10SudokuTest.pdb
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W10Sudoku\W10SudokuTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W10Sudoku\W10SudokuTest\bin\Debug\W10Sudoku.dll
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W10Sudoku\W10SudokuTest\bin\Debug\W10Sudoku.pdb
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W10Sudoku\W10SudokuTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W10Sudoku\W10SudokuTest\obj\Debug\W10SudokuTest.csprojResolveAssemblyReference.cache
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W10Sudoku\W10SudokuTest\obj\Debug\W10SudokuTest.dll
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W10Sudoku\W10SudokuTest\obj\Debug\W10SudokuTest.pdb

@@ -1,0 +1,5 @@
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W10Sudoku\W10Sudoku\obj\Debug\W10Sudoku.csprojResolveAssemblyReference.cache
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W10Sudoku\W10Sudoku\bin\Debug\W10Sudoku.dll
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W10Sudoku\W10Sudoku\bin\Debug\W10Sudoku.pdb
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W10Sudoku\W10Sudoku\obj\Debug\W10Sudoku.dll
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\W10Sudoku\W10Sudoku\obj\Debug\W10Sudoku.pdb
